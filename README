@@ -1,0 +1,11 @@
+This is a public version of the AR5513 HAL, suitable for open source
+development.
+
+
+What is this?
+-------------
+
+This is a public version of the Atheros AR5513 HAL.  The AR5513 HAL
+and driver were never part of the mainline development branch and
+thus were never released as part of Madwifi development.
+
